@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/logo.png" alt="Mistral MCP Hackathon Logo" width="300"/>
+  <img src="../docs/logo.png" alt="Mistral MCP Hackathon Logo" width="300"/>
 
 # Mistral MCP Hackathon 2025
 
@@ -147,7 +147,7 @@ docker run --rm -p 8000:8000 \
 Our ecosystem creates a seamless flow between natural language intent and infrastructure execution:
 
 <p align="center">
-  <img src="docs/architecture.png" alt="Architecture Diagram" width="600"/>
+  <img src="../docs/architecture.png" alt="Architecture Diagram" width="600"/>
 </p>
 
 **Integration Flow:**
