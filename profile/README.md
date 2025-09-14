@@ -273,12 +273,22 @@ All projects are licensed under the **MIT License** - see individual repository 
 
 ---
 
-<div align="center">
+<div align="center" style="padding: 0; margin: 0;">
   
   **🚀 Built during Mistral AI MCP Server Hackathon 2025**
   
   _Transforming natural language into infrastructure reality_
   
   [![Star our repos](https://img.shields.io/badge/⭐-Star%20our%20repos-FFD800?style=for-the-badge)](https://github.com/Mistral-MCP-Hackathon-2025)
+  
+  <br><br>
+  
+  <img src="../docs/lechat.gif" alt="Le Chat mascot animation" width="200" />
+  <!-- Mistral Color Bands -->
+  <div style="width: 100%; height: 30px; background-color: #FFD800;"></div>
+  <div style="width: 100%; height: 30px; background-color: #FFAF00;"></div>
+  <div style="width: 100%; height: 30px; background-color: #FF8205;"></div>
+  <div style="width: 100%; height: 30px; background-color: #FA500F;"></div>
+  <div style="width: 100%; height: 30px; background-color: #E10500;"></div>
   
 </div>
