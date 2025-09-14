@@ -20,7 +20,13 @@ Welcome to the **Mistral MCP Hackathon 2025** organization! We've built a compre
 ## 🎬 See Our Work in Action
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5K_iIvqFtFc?si=8iPHMvTY6g-PnBj6" title="La Télécommande Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- GitHub READMEs do not allow iframes; use a clickable thumbnail instead -->
+<a href="https://www.youtube.com/watch?v=5K_iIvqFtFc" title="Watch the La Télécommande demo on YouTube">
+  <img src="https://img.youtube.com/vi/5K_iIvqFtFc/hqdefault.jpg" alt="La Télécommande demo — click to watch on YouTube" width="560" />
+  <br />
+  <sub>Click to watch the demo on YouTube</sub>
+  
+</a>
 </div>
 
 ---
